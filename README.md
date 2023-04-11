@@ -1,6 +1,5 @@
 # slang-stt
 
-## 음성인식 모델을 개발하며 느끼고 배웠던 점들은 Notion에 기록해두었습니다.
 
 ## 모델 설명
 ![image](https://user-images.githubusercontent.com/68102387/213361376-2fd26a2c-285a-4692-abd8-59cd8a436f4c.png)
